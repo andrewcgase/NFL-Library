@@ -2,7 +2,7 @@ function PlayerService() {
 
     var players = [{
         name: 'Jim Bob',
-        position: 'flat-back',
+        position: 'cheerleader',
         number: '666',
         image: 'http://s.nflcdn.com/static/content/public/image/fantasy/transparent/200x200/'
     }]
